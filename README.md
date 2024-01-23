@@ -5,7 +5,7 @@
                 <td rowspan="2">
                     <table><tr>
                         <td align="center">
-                        <img src="image/Trogloditeando-ico.png" width="80" height="105"/>
+                        <img src="image/Trogloditeando-ico.png" width="90" height="120"/>
                     </td></tr>
                     <tr><td>
                         <ul>
