@@ -8,8 +8,10 @@
 <div> <a href= "https://twitter.com/https://twitter.com/AdQuinti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for- the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/adquinti" objetivo ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AdQuinti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style= for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:quintidani2@gmail.com"><img src="https://img.shields.io/badge /-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> <h3 align="left">Conéctate conmigo:</h3>
+<a href = "mailto:quintidani2@gmail.com"><img src="fa-solid fa-envelope-circle-check" target="_blank"></a>
+</div> 
+
+<h3 align="left">Conéctate conmigo:</h3>
 < p align="izquierda">
 <a href="https://twitter.com/AdQuinti" target="blank"><img align="center" src="https:// raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://twitter.com/AdQuinti" height="30" width="40" /></a > <a href="https://linkedin.com/in/adquinti" target="blank"><img align="center" src="https:// raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://es.linkedin.com/in/adquinti" height="30" width= "40" /></a> <a href="https://www.youtube.com/c/https://www.youtube.com/@AdQuinti-Studio" target="blank"><img align ="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="https://www.youtube.com/@AdQuinti-Studio" height="30" width="40" /></a> <a href="https://discord.gg/adquinti" target="blank"><img align="center " src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="adquinti" height="30" width="40" /></a > </p>
 
