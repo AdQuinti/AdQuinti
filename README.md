@@ -1,5 +1,4 @@
 <img src="https://github.com/AdQuinti/AdQuinti/blob/main/CV-Conocimiento.jpg" width="100%" />
-<h1 align="center">Hola 👋, soy Daniel - Quinti</h1>
 - 💬 Pregúntame sobre **html, css, python, python-reflex, Java, JavaScript, Sql**
 - 📫 Cómo contactarme **quintidani2@gmail.com**
 - 📝 Escribo regularmente artículos en <a href= "https://reflex-link-bio.vercel.app/" target="_blank">aquí</a>
