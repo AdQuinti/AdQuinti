@@ -40,7 +40,6 @@
     </table>
 </div> 
 
-<!-- HERRAMIENTAS - CONOCIMIENTOS -->
     <div align="center">
         <table>
         <tr>
