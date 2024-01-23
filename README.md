@@ -3,10 +3,7 @@
     <table>
             <tr>
                 <td rowspan="2">
-                    <table><tr>
-                        <td align="center">
-                        <img src="image/Trogloditeando-ico.png" width="90" height="120"/>
-                    </td></tr>
+                    <table>
                     <tr><td>
                         <ul>
                             <li type="circle">💬 Especialista lenguajes marcación, diseño, programación ... </li>
@@ -15,7 +12,12 @@
                             <li type="circle">📝 Escribo regularmente artículos en <a href= "https://reflex-link-bio.vercel.app/" target="_blank">aquí</a></li>
                             <li type="circle">📄 Conoce mis experiencias <a href= "https://es.linkedin.com/in/adquinti" target="_blank">aquí</a></li>
                         </ul>
-                    </td></tr></table>
+                    </td></tr>
+                    <tr>
+                        <td align="center">
+                        <img src="image/Trogloditeando-ico.png" width="90" height="120"/>
+                    </td></tr>
+                    </table>
                 </td>
                 <td colspan="3"><img src="image/follow-me.png" width="150" height="100"/></td>
             </tr>
