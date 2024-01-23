@@ -24,7 +24,7 @@
             <tr>
                 <td>
                     <div align="center">
-                        <a href = "mailto:quintidani2@gmail.com"><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" target="_blank" witdh="30em" height="50em" /></a>
+                        <a href = "mailto:quintidani2@gmail.com"><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" target="_blank" witdh="20em" height="35em"/></a>
                         <br/>
                         <a href="https://www.linkedin.com/in/adquinti" objetivo ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="65em" height="20em"></a>
                         <br/>
