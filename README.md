@@ -43,7 +43,7 @@
                 <td>
                     <img src="image/specialist-in.png" width="100" height="50"/>
                 </td>
-                <td align="center" width="100em"><img src="image/flecha.png" width="55em" height="20em"/></td>
+                <td align="center" width="100em"><img src="image/flecha.png" width="50em" height="35em"/></td>
                 <td>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height=" 40"/>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40" />
