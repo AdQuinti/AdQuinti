@@ -1,6 +1,6 @@
 <div align="center"><img src="image/CV-Conocimiento.png" width="70%" height="70%"/></div>
 <div align="center">
-    <table border="0">
+    <table>
             <tr>
                 <td rowspan="2">
                     <table><tr>
