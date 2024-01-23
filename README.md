@@ -5,7 +5,7 @@
 - 📝 Escribo regularmente artículos en <a href= "https://reflex-link-bio.vercel.app/" target="_blank">aquí</a>
 - 📄 Conoce mis experiencias <a href= "https://es.linkedin.com/in/adquinti" target="_blank">aquí</a>
 
-<div> <a href= "https://twitter.com/https://twitter.com/AdQuinti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for- the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<div align="center"> <a href= "https://twitter.com/https://twitter.com/AdQuinti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for- the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/adquinti" objetivo ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AdQuinti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style= for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:quintidani2@gmail.com"><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" target="_blank" witdh="30em" height="50em" /></a>
