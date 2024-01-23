@@ -1,4 +1,4 @@
-<img src="image/CV-Conocimiento_1024x576.jpg" width="100%" />
+<img src="image/CV-Conocimiento_1024x576.jpg" width="50%" />
 <div align="center">
 <table border="0">
         <tr>
@@ -38,9 +38,7 @@
             <td><img src="image/GarfiledSleep.png" width="100" height="100"/></td>
         </tr>
     </table>
-</div> 
 
-    <div align="center">
         <table>
         <tr>
             <td>
