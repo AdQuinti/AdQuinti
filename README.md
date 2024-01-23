@@ -17,7 +17,7 @@
                         </ul>
                     </td></tr></table>
                 </td>
-                <td colspan="3"><img src="image/follow-me.png" width="100" height="50"/></td>
+                <td colspan="3"><img src="image/follow-me.png" width="150" height="100"/></td>
             </tr>
             <tr>
                 <td>
@@ -41,7 +41,7 @@
             <table>
             <tr>
                 <td>
-                    <img src="image/specialist-in.png" width="100" height="50"/>
+                    <img src="image/specialist-in.png" width="150" height="100"/>
                 </td>
                 <td align="center" width="100em"><img src="image/flecha.png" width="50em" height="35em"/></td>
                 <td>
