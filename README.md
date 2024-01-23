@@ -2,8 +2,8 @@
 <h1 align="center">Hola 👋, soy Daniel - Quinti</h1>
 - 💬 Pregúntame sobre **html, css, python, python-reflex, Java, JavaScript, Sql**
 - 📫 Cómo contactarme **quintidani2@gmail.com**
-- 📝 Escribo regularmente artículos en **https://reflex-link-bio.vercel.app/**
-- 📄 Conoce mis experiencias **https://es.linkedin.com/in/adquinti**
+- 📝 Escribo regularmente artículos en <a href= "https://reflex-link-bio.vercel.app/" target="_blank">aquí</a>
+- 📄 Conoce mis experiencias <a href= "https://es.linkedin.com/in/adquinti" target="_blank">aquí</a>
 
 <div> <a href= "https://twitter.com/https://twitter.com/AdQuinti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for- the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/adquinti" objetivo ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
