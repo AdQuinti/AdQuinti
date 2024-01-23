@@ -1,6 +1,6 @@
 <img src="https://github.com/AdQuinti/AdQuinti/blob/main/CV-Conocimiento.jpg" width="100%" />
 - 💬 Pregúntame sobre **html, css, python, python-reflex, Java, JavaScript, Sql**
-- 📫 Cómo contactarme **quintidani2@gmail.com**
+- 📫 Cómo contactarme <a href = "mailto:quintidani2@gmail.com"><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" target="_blank" witdh="10em" height="30em" /></a>
 - 📝 Escribo regularmente artículos en <a href= "https://reflex-link-bio.vercel.app/" target="_blank">aquí</a>
 - 📄 Conoce mis experiencias <a href= "https://es.linkedin.com/in/adquinti" target="_blank">aquí</a>
 
