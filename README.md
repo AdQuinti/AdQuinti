@@ -7,7 +7,7 @@
                     <tr><td>
                         <ul>
                             <li type="circle">💬 Especialista lenguajes marcación, diseño, programación ... </li>
-                            <li type="circle">💬 En Inteligencia Artificial: Expertise en aprendiza supervisado(machine learning con python)<br>, no supervisado y por refuerzo ... </li>
+                            <li type="circle">💬 IA: Expertise en aprendiza supervisado(ML con python)<br>, no supervisado y por refuerzo ... </li>
                             <li type="circle">💻fullstack (frontend, backend y 💾 BDatos)</li>
                             <li type="circle">📫 Cómo contactarme <a href = "mailto:quintidani2@gmail.com"><img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" target="_blank" witdh="8em" height="20em" /></a></li>
                             <li type="circle">📝 Escribo regularmente artículos en <a href= "https://reflex-link-bio.vercel.app/" target="_blank">aquí</a></li>
