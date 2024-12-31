@@ -58,7 +58,7 @@
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40" title="php"/>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"  title="JScript"/>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height=" 40"  title="NodeJS"/>
-                    <img src="https://5.imimg.com/data5/VV/WP/FF/SELLER-2492925/machine-learning-with-python-courses.PNG" alt="NodeJs" width="40" height=" 40"  title="NodeJS"/>
+                    <img src="https://5.imimg.com/data5/VV/WP/FF/SELLER-2492925/machine-learning-with-python-courses.PNG" alt="NodeJs" width="40" height=" 40"  title="IA-ML"/>
 <br>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height=" 40" title="MySQL"/>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40 "altura="40" title="SQL"/>
@@ -68,7 +68,7 @@
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" title="Google Cloud Platform"/>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40" title="Azure"/>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40" title="Photohop"/>
-                    <img src="https://bluemarkacademy.com/wp-content/uploads/2020/12/deep-learning-logo.jpg" width="40" height=" 40"  title="NodeJS"/>
+                    <img src="https://bluemarkacademy.com/wp-content/uploads/2020/12/deep-learning-logo.jpg" width="40" height=" 40"  title="IA-DL"/>
                 </td>
             </tr>
             </table>
