@@ -22,7 +22,7 @@
                     </td></tr>
                     </table>
                 </td>
-                <td colspan="3"><img src="image/follow-me.png" width="150" height="100"/></td>
+                <td colspan="3"><img src="image/follow-me.png" width="140" height="100"/></td>
             </tr>
             <tr>
                 <td>
