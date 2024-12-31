@@ -16,9 +16,9 @@
                     </td></tr>
                     <tr>
                         <td align="center">
-                            <img src="https://media.licdn.com/dms/image/v2/C4D12AQFJjb7BvLQLpg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1594335906371?e=2147483647&v=beta&t=b9ri17FYb7Gum0z9tk6HSZFX_raX7SUUJTnQUoYw3Dc" width="140" height="120"/>
+                            <img src="https://parallelstaff.com/wp-content/smush-webp/2024/08/1-1.png.webp" width="160" height="120"/>
                         <img src="image/Trogloditeando-ico.png" width="90" height="120"/>
-                            <img src="https://media.licdn.com/dms/image/v2/C4D12AQFJjb7BvLQLpg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1594335906371?e=2147483647&v=beta&t=b9ri17FYb7Gum0z9tk6HSZFX_raX7SUUJTnQUoYw3Dc" width="140" height="120"/>
+                            <img src="https://media.licdn.com/dms/image/D5612AQF98axVlLMdbA/article-cover_image-shrink_600_2000/0/1688490371833?e=2147483647&v=beta&t=hFVGHR9i7BiyjcK7DjMzHZ9uKzW2sG-QI3MgBpW27zw" width="160" height="120"/>
                     </td></tr>
                     </table>
                 </td>
