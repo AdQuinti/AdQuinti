@@ -17,12 +17,12 @@
                     <tr>
                         <td align="center">
 
-                        <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/Trogloditeando-ico.png?raw=true" tittle="Troglodita" width="90" height="120"/>
+                        <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/Trogloditeando-ico.png?raw=true" width="90" height="120"/>
 
                     </td></tr>
                     </table>
                 </td>
-                <td colspan="3"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/follow-me.png?raw=true" title="Followme" width="140" height="100"/></td>
+                <td colspan="3"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/follow-me.png?raw=true" width="140" height="100"/></td>
             </tr>
             <tr>
                 <td>
