@@ -1,4 +1,4 @@
-<div align="center"><img src="image/CV-Conocimiento.png" width="70%" height="70%"/></div>
+<div align="center"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/CV-Conocimiento.png?raw=true" width="40%" height="20%"/></div>
 <div align="center">
     <table border="0">
             <tr>
@@ -16,13 +16,13 @@
                     </td></tr>
                     <tr>
                         <td align="center">
-                            <img src="https://parallelstaff.com/wp-content/smush-webp/2024/08/1-1.png.webp" width="140" height="100"/>
-                        <img src="image/Trogloditeando-ico.png" width="90" height="120"/>
-                            <img src="https://media.licdn.com/dms/image/D5612AQF98axVlLMdbA/article-cover_image-shrink_600_2000/0/1688490371833?e=2147483647&v=beta&t=hFVGHR9i7BiyjcK7DjMzHZ9uKzW2sG-QI3MgBpW27zw" width="140" height="100"/>
+
+                        <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/Trogloditeando-ico.png?raw=true" tittle="Troglodita" width="90" height="120"/>
+
                     </td></tr>
                     </table>
                 </td>
-                <td colspan="3"><img src="image/follow-me.png" width="140" height="100"/></td>
+                <td colspan="3"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/follow-me.png?raw=true" title="Followme" width="140" height="100"/></td>
             </tr>
             <tr>
                 <td>
@@ -31,7 +31,7 @@
                         <br/>
                         <a href="https://www.linkedin.com/in/adquinti" objetivo ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="65em" height="20em"></a>
                         <br/>
-                        <a href="https://github.com/AdQuinti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style= for-the-badge&logo=github&logoColor=white" target="_blank" width="65em" height="20em"></a>
+                        <a href="https://github.com/danielquintana-teacher" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style= for-the-badge&logo=github&logoColor=white" target="_blank" width="65em" height="20em"></a>
                         <br/>
                         <a href= "https://twitter.com/AdQuinti" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for- the-badge&logo=twitter&logoColor=white" target="_blank" width="65em" height="20em"></a>
                         <br/>
@@ -40,15 +40,15 @@
                         <a href="https://discord.gg/adquinti" target="blank"><img align="center " src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="adquinti" height="30" width="40" /></a>
                         </div> 
                 </td>
-                <td><img src="image/GarfiledSleep.png" width="100" height="100"/></td>
+                <td><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/GarfiledSleep.png?raw=true"  tittle="Garfield coffe" width="100" height="100"/></td>
             </tr>
         </table>
             <table>
             <tr>
                 <td>
-                    <img src="image/specialist-in.png" width="150" height="100"/>
+                    <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/specialist-in.png?raw=true" tittle="Specialist" width="150" height="100"/>
                 </td>
-                <td align="center" width="100em"><img src="image/flecha.png" width="50em" height="35em"/></td>
+                <td align="center" width="100em"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/flecha.png?raw=true" width="50em" height="35em"/></td>
                 <td>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height=" 40" title="Git"/>
                     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"  title="Java"/>
