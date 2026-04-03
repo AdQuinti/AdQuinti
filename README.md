@@ -16,7 +16,7 @@
                     </td></tr>
                     <tr>
                         <td align="center">
-                        <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/Trogloditeando-ico.png?raw=true" tittle="Troglodita" width="90" height="120"/>
+                        <img src="https://img.freepik.com/vector-gratis/concepto-lluvia-ideas-pagina-destino_23-2150174179.jpg" tittle="conocimiento" width="90" height="120"/>
                         <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/Trogloditeando-ico.png?raw=true" tittle="Troglodita" width="90" height="120"/>
                         <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/Trogloditeando-ico.png?raw=true" tittle="Troglodita" width="90" height="120"/>
                     </td>
