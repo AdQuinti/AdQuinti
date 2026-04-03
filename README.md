@@ -18,7 +18,7 @@
                         <td align="center">
                         <img src="https://img.freepik.com/vector-gratis/concepto-lluvia-ideas-pagina-destino_23-2150174179.jpg" tittle="conocimiento" width="110" height="140"/>
                         <img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/Trogloditeando-ico.png?raw=true" tittle="Troglodita" width="90" height="120"/>
-                        <img src="https://www.spkaa.com/wp-content/uploads/2022/03/vciso-cybersecurity-services-icon-orange.png" tittle="CiberSecurity" width="120" height="160"/>
+                        <img src="https://www.spkaa.com/wp-content/uploads/2022/03/vciso-cybersecurity-services-icon-orange.png" tittle="CiberSecurity" width="160" height="190"/>
                     </td>
                 </tr>
                     </table>
