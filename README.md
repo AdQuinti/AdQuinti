@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/CV-Conocimiento.png?raw=true" width="90%" height="50%"/></div>
+<div align="center"><img src="https://github.com/AdQuinti/AdQuinti/blob/main/image/CV-Conocimiento.png?raw=true" width="80%" height="40%"/></div>
 <div align="center">
     <table border="0">
             <tr>
